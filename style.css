@@ -719,6 +719,7 @@ footer{
     top: 260px;
     animation: osani .3s ease-in ;
     border: 13px solid black;
+    /* margin-top: -119px 0px; */
 }
 @keyframes osani {
     from{
@@ -733,6 +734,7 @@ footer{
     width: 500px;
     height: 320px;
     background-color: white;
+    opacity: 0.789;
     border-radius: 22px;
     position: relative;
     left: 620px;
@@ -743,7 +745,7 @@ footer{
     justify-content: top;
     align-items: center;
     border:4px solid black;
-    animation: osinfoani .3s ease-in ;
+    animation: osinfoani .6s ease-in ;
 
 }
 @keyframes osinfoani {
