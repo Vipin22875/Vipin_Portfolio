@@ -813,3 +813,143 @@ footer{
     background-color: #efebfa;
 
 }
+
+
+.infiltr{
+    font-size: 43px;
+    font-family: 'Montserrat Subrayada', sans-serif;
+    color: yellowgreen;
+    border: 39px solid white;
+    /* border: 50px solid white; */
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 20px;
+    font-weight: bolder;
+}
+
+.conimg{
+    width: 700px;
+    height: 880px;
+    /* background-color: #DBF9FC; */
+    position: relative;
+    left: 40px;
+    top: 220px;
+}
+#con{
+
+    background-color: #DBF9FC;
+}
+.contactus{
+    border-radius: 20px;
+    /* background-color: rgba(255, 255, 255, 0); */
+    border: 12px solid greenyellow;
+}
+.form{
+    width: 738px;
+    height: 1000px;
+    background-color: #FFFFFF;;
+    position: relative;
+    left:590px;
+    top: -560px;
+    opacity: .89;
+    border-radius: 20px;
+    background-image: url(/img/back2.avif);
+}
+.head{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    font-size: 32px;
+    font-family: 'Poppins';
+    padding:  22px 0px 12px 20px;
+    font-weight: 600;
+}
+.fname{
+    font-size: 23px;
+    font-family: 'Poppins';
+    margin-left: 20px;
+    margin-top: 11px;
+    margin-bottom:-22px;
+    display: inline-block;
+}
+.name{
+    margin-top: 16px;
+    margin-left: 20px;
+    width: 300px;
+    height: 42px;
+    position: relative;
+    border-radius: 22px;
+    border: 2px solid black;
+    /* background-color: lightcoral; */
+}
+.lname{ 
+    position: relative;
+    left: 370px;
+    top: -95px;
+}
+.comname{
+    position: relative;
+    top: -60px;
+}
+.phone{
+    position: relative;
+    top: -158px; 
+    left: 370px;
+}
+.conname{
+    margin-bottom: 32px;
+    margin-top: -22px;
+    position: relative;
+    top: -100px;
+}
+#conname{
+    margin-left: 20px;
+    border: 2px solid black;
+    margin-top: 15px;
+
+    width: 300px;
+    height: 42px;
+    border-radius: 122px;
+    background: white;
+}
+.mail{ 
+    position: relative;
+    left: 370px;
+    top: -230px;
+}
+#discuss{
+    padding-bottom: 120px;
+    width: 670px;
+    height: 100px;
+    margin: 20px 0px 0px 22px;
+    border-radius: 22px;
+    border: 2px solid black;
+}
+.area{
+    position: relative;
+    top: -200px;
+}
+.check{
+    position: relative;
+    top: -150px;
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-evenly; */
+}
+.checkinfo{
+    padding-left: 22px;
+    font-family: 'Montserrat Subrayada', sans-serif;
+    font-size: 23px;
+}
+#submit{
+    height: 50px;
+    width: 200px;
+    position: relative;
+    left: 260px;
+    top: -90px;
+    font-size: 17px;
+    font-family: 'Montserrat Subrayada', sans-serif;
+font-weight: lighter;
+    border-radius: 22px;
+    background-color: #D79922;
+}
